@@ -217,4 +217,4 @@ Este proyecto se distribuye bajo la licencia incluida en el archivo `LICENSE`.
 
 ## Autor
 
-Proyecto desarrollado por **Iago Becerra López** como parte de una práctica académica de desarrollo backend y aplicaciones web.
+Proyecto desarrollado por **Guillermo Alonso Rivas** como parte de una práctica académica de desarrollo backend y aplicaciones web.
